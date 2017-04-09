@@ -1,4 +1,5 @@
 ﻿using System;
+using OpenLogger.Extensions;
 
 namespace OpenLogger
 {

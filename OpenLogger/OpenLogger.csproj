@@ -46,6 +46,7 @@
     <Compile Include="Adapters\LogToDebugger.cs" />
     <Compile Include="Adapters\LogToEventLog.cs" />
     <Compile Include="Adapters\LogToFile.cs" />
+    <Compile Include="Extensions\ObjectExtensions.cs" />
     <Compile Include="FixedConcurrentQueue.cs" />
     <Compile Include="IHaveLogger.cs" />
     <Compile Include="IHaveLoggerFacade.cs" />
