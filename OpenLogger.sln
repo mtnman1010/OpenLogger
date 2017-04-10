@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenLogger", "OpenLogger\OpenLogger.csproj", "{7D6661C4-3012-47A9-9482-0DEE58449B06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenLogger.Sample", "OpenLogger.Sample\OpenLogger.Sample.csproj", "{F38F6190-B9FE-4719-9858-0AD288796892}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7D6661C4-3012-47A9-9482-0DEE58449B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D6661C4-3012-47A9-9482-0DEE58449B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D6661C4-3012-47A9-9482-0DEE58449B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38F6190-B9FE-4719-9858-0AD288796892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38F6190-B9FE-4719-9858-0AD288796892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38F6190-B9FE-4719-9858-0AD288796892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38F6190-B9FE-4719-9858-0AD288796892}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
