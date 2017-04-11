@@ -51,7 +51,7 @@
     <Compile Include="IHaveLogger.cs" />
     <Compile Include="IHaveLoggerFacade.cs" />
     <Compile Include="IHaveLoggerGroup.cs" />
-    <Compile Include="ILog.cs" />
+    <Compile Include="ILogAdapter.cs" />
     <Compile Include="ILogger.cs" />
     <Compile Include="LogEventArgs.cs" />
     <Compile Include="Logger.cs" />

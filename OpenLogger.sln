@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenLogger", "OpenLogger\Op
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenLogger.Sample", "OpenLogger.Sample\OpenLogger.Sample.csproj", "{F38F6190-B9FE-4719-9858-0AD288796892}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenLogger.Sample.MVVM", "OpenLogger.Sample.MVVM\OpenLogger.Sample.MVVM.csproj", "{C4CC6F55-86AD-4D65-9A8A-40454B6B7D4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F38F6190-B9FE-4719-9858-0AD288796892}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F38F6190-B9FE-4719-9858-0AD288796892}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F38F6190-B9FE-4719-9858-0AD288796892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4CC6F55-86AD-4D65-9A8A-40454B6B7D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4CC6F55-86AD-4D65-9A8A-40454B6B7D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4CC6F55-86AD-4D65-9A8A-40454B6B7D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4CC6F55-86AD-4D65-9A8A-40454B6B7D4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
